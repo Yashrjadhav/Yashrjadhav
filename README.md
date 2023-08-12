@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Jadhav</h1>
-<h3 align="center">A passionate frontend developer ✨✨</h3>
+<h3 align="center">A passionate UX Designer ✨✨</h3>
 
 - 👨‍💻 my UX Design projects are available at [https://yashjadhavux.notion.site/Hello-I-am-Yash-40bc569759ee465cba51cacddef9b7d7?pvs=4](https://yashjadhavux.notion.site/Hello-I-am-Yash-40bc569759ee465cba51cacddef9b7d7?pvs=4)
 

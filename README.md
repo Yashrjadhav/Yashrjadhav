@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Jadhav</h1>
 <h3 align="center">A passionate UX Designer ✨✨</h3>
 
-- 👨‍💻 my UX Project Design are available at [https://yashjadhavux.notion.site/Hello-I-am-Yash-40bc569759ee465cba51cacddef9b7d7?pvs=4](https://yashjadhavux.notion.site/Hello-I-am-Yash-40bc569759ee465cba51cacddef9b7d7?pvs=4)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-jadhav-982b43231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-jadhav-982b43231" height="30" width="40" /></a>
